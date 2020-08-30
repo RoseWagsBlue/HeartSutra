@@ -1,0 +1,72 @@
+%    printable flashcards for Wanicani kanji
+%    uses the flacards class because it is easier than the more common flashcards class
+
+\documentclass[letterpaper,frontgrid]{flacards}
+%%\usepackage{color}
+\usepackage{xeCJK}
+\usepackage{fontspec}
+\usepackage{anyfontsize}
+\usepackage{hyperref}
+
+\fboxsep=12pt
+\setcounter{cardno}{0}
+
+\hypersetup {
+ pdfauthor= Rose DiFonzo,
+ pdftitle={heart sutra flashcards},
+ pdfsubject={kanji flashcards},
+ pdfkeywords={kanji, japan, wanikani, heart sutra, buddha, buddhism},
+ }
+ 
+%%\renewcommand{\frfoot}{\footnotesize\thecardno\hskip3pt\smallskip} % change layout for left foot on front
+%%\renewcommand{\brfoot}{\footnotesize\thecardno\hskip3pt\smallskip} % change layout for left foot on front
+% You can define head and foot elements using \flhead, \fchead and \frhead for right, center and right head on frontside,
+% \flfoot, \fcfoot, \flfoot for footline on frontside. Analogical use \blhead, \bchead, \brhead, \blfoot, \bcfoot and
+% \frfoot for backside.
+%\renewcommand{\cardtextstyleb}{\flushright}
+%%\renewcommand{\frfoot}{\hskip3pt\footnotesize wanikani.com\smallskip}
+\renewcommand{\flfoot}{\hskip3pt\footnotesize\thecardno\smallskip}
+\renewcommand{\blfoot}{\footnotesize\thecardno}
+\renewcommand{\frfoot}{}
+\renewcommand{\brfoot}{}
+
+\renewcommand{\cardtextstylef}{\fontsize{60}{60}\selectfont}
+\renewcommand{\cardtextstyleb}{\Large}
+\setCJKmainfont{KanjiStrokeOrders}
+%% \setCJKmainfont{Meiryo}
+ 
+\begin{document}
+\pagesetup{4}{8} 
+ 	\card{佛}{ぶっ}
+	\card{説}{せつ}
+    	\card{摩}{ま}
+	\card{訶}{か}
+ 	\card{般}{はん}
+	\card{若}{にゃ}
+    	\card{波}{は}
+	\card{羅}{ら}
+	\card{蜜}{みっ}
+	\card{多}{た}
+    	\card{心}{しん}
+	\card{経}{ぎょう}
+ 	\card{観}{かん}
+	\card{自}{じ}
+    	\card{在}{ざい}
+	\card{菩}{ぼ}
+	\card{薩}{さつ}
+	\card{行}{ぎょう}
+    	\card{深}{じん}
+	\card{般}{はん}
+ 	\card{若}{にゃ}
+	\card{波}{は}
+    	\card{羅}{ら}
+	\card{蜜}{みっ}
+	\card{多}{た}
+	\card{時}{じ}
+    	\card{照}{しょう}
+	\card{見}{けん}
+ 	\card{五}{ご}
+	\card{蘊}{うん}
+    	\card{皆}{かい}
+	\card{空}{くう}
+\end{document} 
