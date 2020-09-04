@@ -7,7 +7,7 @@
 波 	ハ 	wave 	 	
 羅 	ラ 	spread out 	 	
 蜜 	ミッ 	honey 	 	is 密 an alternative?
-多 	タ 		ハン二ゃハラミッタ is Prajnaparamita 2, the perfection of wisdom. This whole text is a discourse on this concept of the essential emptiness of existence. 	
+多 	タ 	many  ハン二ゃハラミッタ Prajnaparamita , the perfection of wisdom. This whole text is a discourse on this concept of the essential emptiness of existence. 	
 心 	しん 	heart 	heart 	
 経 	ぎょう 	passage of time 	sutra 	
 
@@ -19,12 +19,12 @@ That is the title, now it starts. Some times I hear the chanting start on the �
 薩 	さつ 	salvation, Buddha 	菩薩 bodhisattva 	
 行 	ぎょう 	go 	practice 	
 深 	じん 	deep 		
-般 	はん 	generally 	当て字 	
-若 	にゃ 	young 	当て字 	
-波 	は 	wave 	当て字 	
-羅 	ら 	spread out 	当て字 	
-蜜 	みっ 	honey 	当て字 	
-多 	た 	many 	はんにゃはらみた sanskrit Prajnaparamita 	
+般 	ハン 	generally 		
+若 	二ゃ 	young 		
+波 	ハ 	wave 	 	
+羅 	ラ 	spread out 	 	
+蜜 	ミッ 	honey 	 	
+多 	タ 	many ハン二ゃハラミッタ Prajnaparamita
 時 	じ 	time 	now 	
 照 	しょう 	illuminate 	clearly 	
 見 	けん 	see 	sees 	
@@ -158,12 +158,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 薩 	さっ 	不 		
 埵 	た 	不 		
 依 	え 	reliant 		
-般 	はん 	generally 		
-若 	にゃ 	young 		
-波 	は 	wave 		
-羅 	ら 	spread out 		
-蜜 	みっ 	honey 		
-多 	た 	many 		
+般 	ハン 	generally 		
+若 	二ゃ 	young 		
+波 	ハ 	wave 	 	
+羅 	ラ 	spread out 	 	
+蜜 	ミッ 	honey 	 	
+多 	タ 	many ハン二ゃハラミッタ Prajnaparamita		
 故 	こ 	circumstance 		
 心 	しん 	heart 		
 無 	む 	no 	no 	
@@ -194,12 +194,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 諸 	しょ 			
 佛 	ぶつ 			
 依 	え 			
-般 	はん 			
-若 	にゃ 			
-波 	は 			
-羅 	ら 			
-蜜 	みっ 			
-多 	た 			
+般 	ハン 	generally 		
+若 	二ゃ 	young 		
+波 	ハ 	wave 	 	
+羅 	ラ 	spread out 	 	
+蜜 	ミッ 	honey 	 	
+多 	タ 	many ハン二ゃハラミッタ Prajnaparamita 			
 故 	こ 			
 得 	とく 			
 阿 	あの 			
@@ -213,12 +213,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 提 	だい 			
 故 	こ 			
 知 	ち 			
-般 	はん 			
-若 	にゃ 			
-波 	は 			
-羅 	ら 			
-蜜 	みっ 			
-多 	た 			
+般 	ハン 	generally 		
+若 	二ゃ 	young 		
+波 	ハ 	wave 	 	
+羅 	ラ 	spread out 	 	
+蜜 	ミッ 	honey 	 	
+多 	タ 	many ハン二ゃハラミッタ Prajnaparamita			
 是 	ぜ 			
 大 	だい 			
 神 	しん 			
@@ -247,12 +247,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 虚 	こ 			
 故 	こ 			
 説 	せつ 			
-般 	はん 			
-若 	にゃ 			
-波 	は 			
-羅 	ら 			
-蜜 	みっ 			
-多 	た 			
+般 	ハン 	generally 		
+若 	二ゃ 	young 		
+波 	ハ 	wave 	 	
+羅 	ラ 	spread out 	 	
+蜜 	ミッ 	honey 	 	
+多 	タ 	many ハン二ゃハラミッタ Prajnaparamita 			
 咒 	しゅ 			
 即 	そく 			
 説 	せつ 			
