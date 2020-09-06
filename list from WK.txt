@@ -19,12 +19,12 @@ That is the title, now it starts. Some times I hear the chanting start on the �
 薩 	さつ 	salvation, Buddha 	菩薩 bodhisattva 	
 行 	ぎょう 	go 	practice 	
 深 	じん 	deep 		
-般 	ハン 	generally 		
-若 	二ゃ 	young 		
-波 	ハ 	wave 	 	
-羅 	ラ 	spread out 	 	
-蜜 	ミッ 	honey 	 	
-多 	タ 	many ハン二ゃハラミッタ Prajnaparamita
+般 	ハン 	
+若 	二ゃ 			
+波 	ハ 		 	
+羅 	ラ 	 	 	
+蜜 	ミッ  	 	
+多 	タ 	
 時 	じ 	time 	now 	
 照 	しょう 	illuminate 	clearly 	
 見 	けん 	see 	sees 	
@@ -158,12 +158,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 薩 	さっ 	不 		
 埵 	た 	不 		
 依 	え 	reliant 		
-般 	ハン 	generally 		
-若 	二ゃ 	young 		
-波 	ハ 	wave 	 	
-羅 	ラ 	spread out 	 	
-蜜 	ミッ 	honey 	 	
-多 	タ 	many ハン二ゃハラミッタ Prajnaparamita		
+般 	ハン 		
+若 	二ゃ 	 		
+波 	ハ 	 	 	
+羅 	ラ 	 	 	
+蜜 	ミッ  	 	
+多 	タ 		
 故 	こ 	circumstance 		
 心 	しん 	heart 		
 無 	む 	no 	no 	
@@ -219,23 +219,23 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 羅 	ラ 		 	
 蜜 	ミッ 	
 多 	タ 		
-是 	ぜ 			
-大 	だい 			
-神 	しん 			
-咒 	しゅ 	curse 		呪 in WK
-是 	ぜ 			
-大 	だい 			
-明 	みょう 			
-咒 	しゅ 			
-是 	ぜ 			
-無 	む 			
-上 	じょう 			
-咒 	しゅ 			
-是 	ぜ 			
-無 	む 			
-等 	とう 			
-等 	どう 			
-咒 	しゅ 			
+是 	ぜ absolutely	
+大 	だい big		
+神 	しん 	god		
+咒 	しゅ 	curse mantra 呪 in WK
+是 	ぜ absolutely		
+大 	だい big	
+明 	みょう bright		
+咒 	しゅ 	mantra
+是 	ぜ absolutely		
+無 	む no			
+上 	じょう above higher		
+咒 	しゅ mantra			
+是 	ぜ absolutely			
+無 	む no			
+等 	とう equal
+等  どう equal　what a great japanese word to find in an essentially Chinese text.  等々 is usually　とうとう.  
+咒 	しゅ mantra		
 能 	のう 			
 除 	じょ 			
 一 	いっ 			
@@ -247,12 +247,12 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 虚 	こ 			
 故 	こ 			
 説 	せつ 			
-般 	ハン 	generally 		
-若 	二ゃ 	young 		
-波 	ハ 	wave 	 	
-羅 	ラ 	spread out 	 	
-蜜 	ミッ 	honey 	 	
-多 	タ 	many ハン二ゃハラミッタ Prajnaparamita 			
+般 	ハン 	
+若 	二ゃ 	 		
+波 	ハ 	 	 	
+羅 	ラ 	 	 	
+蜜 	ミッ  	 	
+多 	タ 	 			
 咒 	しゅ 			
 即 	そく 			
 説 	せつ 			
