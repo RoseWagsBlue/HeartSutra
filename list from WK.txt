@@ -37,9 +37,9 @@ That is the title, now it starts. Some times I hear the chanting start on the �
 切 	さい 	cut 	all 	
 苦 	く 	suffering 	suffering 	
 厄 	やく 	unlucky 	unhappiness 	
-舎 	しゃ 	cottage 	当て字 	
-利 	り 	profit 	当て字 	
-子 	し 	child 	しゃりし 	Sariputra one of the Buddhas two main disciples. Usually written as 舎利弗 , しゃりほつ. 舎利仏 is receiving this teaching.
+舎 	シャ 	cottage 	
+利 	り 	profit 		
+子 	シ 	child 	Sariputra one of the Buddhas two main disciples. Usually written as 舎利弗 , しゃりほつ. 舎利仏 is receiving this teaching.
 色 	しき 	color 	form 	
 不 	ふ 	not 	not 	
 異 	い 	differ 	different 	
@@ -64,9 +64,9 @@ That is the title, now it starts. Some times I hear the chanting start on the �
 復 	ぶ 	restore 	again 	
 如 	にょ 	likeness 	same 	
 是 	ぜ 	absolutely 	are 	
-舎 	しゃ 	cottage 	当て字 	
-利 	り 	profit 	当て字 	
-子 	し 	child 	しゃりし Sariputra 	
+舎 	シャ 	cottage  	
+利 	リ	profit 	
+子 	シ 	child 	 Sariputra 	
 是 	ぜ 	absolutely 	are 	
 諸 	しょ 	various 	all 	
 法 	ほう 	method 	dharmas 	Dharma is a complex term, difficult to define or translate. The common definition of “cosmic law” works fine here.
@@ -187,13 +187,13 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 想 	そう 	concept 		
 究 	く 	research 		
 竟 	きょう 	不 	end 	究竟 after all, in the end
-涅 	ね 	不 	black soil 	当て字
-槃 	はん 	不 	tub 	涅槃 ねはん = nirvana.
-三 	さん 			
-世 	ぜ 			
-諸 	しょ 			
-佛 	ぶつ 			
-依 	え 			
+涅 	ネ 	不 	black soil 	
+槃 	ハン 	不 	tub　ネハン = nirvana
+三 	さん 	three		
+世 	ぜ 	world		
+諸 	しょ 	various		
+佛 	ぶつ 	Bhudda		
+依 	え 	reliant		
 般 	ハン 	generally 		
 若 	二ゃ 	young 		
 波 	ハ 	wave 	 	
