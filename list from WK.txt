@@ -64,9 +64,9 @@ That is the title, now it starts. Some times I hear the chanting start on the �
 復 	ぶ 	restore 	again 	
 如 	にょ 	likeness 	same 	
 是 	ぜ 	absolutely 	are 	
-舎 	シャ 	cottage  	
-利 	リ	profit 	
-子 	シ 	child 	 Sariputra 	
+舎 	シャ 	
+利 	リ		
+子 	シ 		Sariputra 	
 是 	ぜ 	absolutely 	are 	
 諸 	しょ 	various 	all 	
 法 	ほう 	method 	dharmas 	Dharma is a complex term, difficult to define or translate. The common definition of “cosmic law” works fine here.
@@ -241,42 +241,42 @@ Earlier, we had the five aggregates, form, feeling, volition, perception, and co
 一 	いっ 	one
 切   さい  cut 一切 all
 苦 	く 	suffering
-真 	しん 			
-實 	じつ 			
-不 	ふ 			
-虚 	こ 			
-故 	こ 			
-説 	せつ 			
+真 	しん  reality 			
+實 	じつ 	truth	
+不 	ふ 	not		
+虚 	こ 	void	
+故 	こ 	circumstance		
+説 	せつ  theory			
 般 	ハン 	
 若 	二ゃ 	 		
 波 	ハ 	 	 	
 羅 	ラ 	 	 	
 蜜 	ミッ  	 	
 多 	タ 	 			
-咒 	しゅ 			
-即 	そく 			
-説 	せつ 			
-咒 	しゅ 			
+咒 	しゅ mantra			
+即 	そく instant		
+説 	せつ theory	
+咒 	しゅ mantra		
 曰 	わつ 	say 		not in WK
-羯 	ぎゃ 			
-諦 	てい 			
-羯 	ぎゃ 			
-諦 	てい 			
-波 	は 			
-羅 	ら 			
-羯 	ぎゃ 			
-諦 	てい 			
-波 	は 			
-羅 	ら 			
-僧 	そう 			
-羯 	ぎゃ 			
-諦 	てい 			
-菩 	ぼ 			
-提 	じ 			
-薩 	そ 			
-婆 	わ 			
-訶 	か 			
-般 	はん 			
-若 	にゃ 			
+羯   ギャ
+諦 	テイ 			
+羯 	ギャ 			
+諦 	テイ 
+波   ハ
+羅 	ラ 			
+羯 	ギャ 			
+諦 	テイ 
+波   ハ
+羅 	ラ 			
+僧 	ソウ 			
+羯 	ギャ 			
+諦 	テイ 
+菩   ボ
+提   ジ
+薩 	ソ 			
+婆 	ワ 			
+訶 	カ 			
+般 	ハン 			
+若 	ニャ 			
 心 	しん 			
 經 	ぎょう 		
