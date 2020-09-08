@@ -1,4 +1,4 @@
-%    printable flashcards for the Heat Sutra
+%    printable flashcards for Wanicani kanji
 %    uses the flacards class because it is easier than the more common flashcards class
 
 \documentclass[letterpaper,frontgrid]{flacards}
@@ -33,6 +33,7 @@
 \renewcommand{\cardtextstylef}{\fontsize{60}{60}\selectfont}
 \renewcommand{\cardtextstyleb}{\Large}
 \setCJKmainfont{KanjiStrokeOrders}
+ \setCJKsansfont{Meiryo} %work around for cards not in stroke order font
 %% \setCJKmainfont{Meiryo}
  
 \begin{document}
@@ -192,7 +193,7 @@
 \card{菩}{ぼ}
 \card{提}{だい}
 \card{薩}{さっ}
-\card{埵}{た}
+\card{\textsf{埵}}{た} %card in so font
 \card{依}{え}
 \card{般}{はん}
 \card{若}{にゃ}
@@ -203,10 +204,10 @@
 \card{故}{こ}
 \card{心}{しん}
 \card{無}{む}
-\card{罣}{けい}
+\card{\textsf{罣}}{けい}%card in so font
 \card{礙}{げ}
 \card{無}{む}
-\card{罣}{けい}
+\card{\textsf{罣}}{けい}%card in so font
 \card{礙}{げ}
 \card{故}{こ}
 \card{無}{む}
